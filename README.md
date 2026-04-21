@@ -4,7 +4,8 @@ An interactive Excel dashboard created to analyze and visualize coffee sales per
 
 ## 📈 Dashboard Preview
 ![Coffee Dashboard]
-<img width="1920" height="1080" alt="2026-04-20" src="https://github.com/user-attachments/assets/bd5d1ec6-c112-4aa0-ab1e-6b05d7f79ccf" />
+<img width="1920" height="1080" alt="2026-04-21" src="https://github.com/user-attachments/assets/da2be40b-b519-4dec-9774-18bfd6538aa7" />
+
 
 
 ## 🛠️ Key Skills Used:
