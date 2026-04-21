@@ -4,6 +4,7 @@ An interactive Excel dashboard created to analyze and visualize coffee sales per
 
 ## 📈 Dashboard Preview
 ![Coffee Dashboard]
+(2026-04-21 .png)
 ## 🛠️ Key Skills Used:
 * Advanced Excel Formulas: Used functions (like XLOOKUP/VLOOKUP or INDEX/MATCH) to connect and retrieve data across sheets.
 * Data Formatting: Cleaned and organized raw data directly in Excel for better readability.
